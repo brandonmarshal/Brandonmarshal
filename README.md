@@ -1,5 +1,4 @@
 ## Hi there 👋
-😄 GitHub is fun!
 ⚡ Fun fact: 🐙 The GitHub mascot "Octocat" was originally just a random piece of clip art.
 
 
