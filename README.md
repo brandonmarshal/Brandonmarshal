@@ -1,4 +1,7 @@
 ## Hi there 👋
+😄 GitHub is fun!
+⚡ Fun fact: 🐙 The GitHub mascot "Octocat" was originally just a random piece of clip art.
+
 
 <!--
 **Brandonma21/Brandonma21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
