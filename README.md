@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
   <img src="https://github.com/Brandonma21.png" width="120" alt="Brandonma21 Avatar" style="border-radius:50%">
-  <h1 align="center">Hi, I'm Brandonma21 👋</h1>
+  <h1 align="center">Hi, I'm Brandon Marshall 👋</h1>
   <p align="center"><b>Aspiring WordPress Developer | Always Learning | Open Source Enthusiast</b></p>
 </p>
 
@@ -57,7 +57,7 @@ I'm an aspiring developer, passionate about building with WordPress and explorin
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](www.linkedin.com/in/brandonmarshallprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonmarshallprofile)
 [![Email](https://img.shields.io/badge/-Email-ea4335?logo=gmail&logoColor=white)](mailto:brandonmarshall101@gmail.com)
 
 ---
@@ -65,9 +65,8 @@ I'm an aspiring developer, passionate about building with WordPress and explorin
 <details>
   <summary>📖 Fun Facts</summary>
   <ul>
-    <li>I always commit with semantic messages 😅</li>
-    <li>Caffeine fuels my coding ☕</li>
-    <li>Ask me about block themes, design, or AI!</li>
+    <li>GitHub’s mascot, the Octocat, was originally designed as a “cat/octopus hybrid” by graphic designer Simon Oxley for a stock image website. GitHub adopted it as their official mascot, and the Octocat has since become one of the most recognizable symbols in the developer community—appearing in countless customizations and memes!</li>
+    <li>WordPress powers over 40% of all websites on the internet! What started in 2003 as a simple blogging platform has grown into the world’s most popular content management system (CMS), used by everyone from hobby bloggers to major media companies and Fortune 500 brands.</li>
   </ul>
 </details>
 
