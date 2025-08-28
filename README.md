@@ -1,9 +1,15 @@
 <!-- Profile Header -->
 <p align="center">
   <img src="https://github.com/Brandonma21.png" width="120" alt="Brandonma21 Avatar" style="border-radius:50%">
-  <h1 align="center">Hi, I'm Brandon Marshall 👋</h1>
   <p align="center"><b>Aspiring WordPress Developer | Always Learning | Open Source Enthusiast</b></p>
 </p>
+
+---
+
+## 👤 Bio
+
+Brandon Marshall — aspiring WordPress developer. Learning Figma to improve my workflow; open to feedback. Connect on LinkedIn: https://www.linkedin.com/in/brandonmarshallprofile
+Figma: https://figma.com/@brandonmarshall
 
 ---
 
