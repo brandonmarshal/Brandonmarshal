@@ -42,9 +42,8 @@ I'm an aspiring developer, passionate about building with WordPress and explorin
 
 | Name | Description | Links |
 |---|---|---|
-| **Block Theme Playground** | Experiments with WordPress block themes and full site editing. | [Repo](https://github.com/Brandonma21/block-theme-playground) |
-| **Figma Designs** | My journey and practice projects using Figma for web design. | [Repo](https://github.com/Brandonma21/figma-designs) |
-| **AI Demos** | Exploring simple AI integrations and tools. | [Repo](https://github.com/Brandonma21/ai-demos) |
+| **Brandon Blocks** | Custom Gutenberg blocks for WordPress, built for flexibility and learning modern block development. | [Repo](https://github.com/Brandonma21/Brandon-Blocks) |
+| **LSX Demo Theme** | A WordPress theme experiment focusing on block themes and full site editing features. | [Repo](https://github.com/Brandonma21/lsx-demo-theme) |
 
 ---
 
@@ -58,9 +57,8 @@ I'm an aspiring developer, passionate about building with WordPress and explorin
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonma21)
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/brandonma21)
-[![Email](https://img.shields.io/badge/-Email-ea4335?logo=gmail&logoColor=white)](mailto:brandonma21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](www.linkedin.com/in/brandonmarshallprofile)
+[![Email](https://img.shields.io/badge/-Email-ea4335?logo=gmail&logoColor=white)](mailto:brandonmarshall101@gmail.com)
 
 ---
 
