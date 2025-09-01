@@ -26,8 +26,8 @@ I'm an aspiring developer, passionate about building with WordPress and explorin
 ## 🔥 My Stats & Badges
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandonma21&show_icons=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Brandonma21&theme=flat&title=Stars,Followers,Commits,Issues,PullRequest" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonmarshal&show_icons=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brandonmarshal&theme=flat&title=Stars,Followers,Commits,Issues,PullRequest" alt="Trophy" />
 </p>
 
 ---
