@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://github.com/Brandonma21.png" width="120" alt="Brandonma21 Avatar" style="border-radius:50%">
+  <img src="https://github.com/Brandonmarshal.png" width="120" alt="Brandonmarshal Avatar" style="border-radius:50%">
   <p align="center"><b>Aspiring WordPress Developer | Always Learning | Open Source Enthusiast</b></p>
 </p>
 
