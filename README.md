@@ -59,14 +59,6 @@ A premium eCommerce platform demonstrating full-stack proficiency.
 
 ---
 
-### 📖 Currently Learning & Reading
-
-- **Learning:** Rust for high-performance systems and WebAssembly.
-- **Reading:** *"Clean Architecture"* by Robert C. Martin.
-- **Exploring:** Leverging LLMs for automated unit testing and code quality.
-
----
-
 ### 🤝 Connect With Me
 
 <p align="left">
