@@ -1,83 +1,86 @@
-<!-- Profile Header -->
+# 👋 Hi, I'm Brandon Marshall!
+
 <p align="center">
-  <img src="https://github.com/Brandonmarshal.png" width="120" alt="Brandonmarshal Avatar" style="border-radius:50%">
-  <p align="center"><b>Aspiring WordPress Developer | Always Learning | Open Source Enthusiast</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Systems+Explorer;UI/UX+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brandonmarshal&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophy Shelf" />
 </p>
 
 ---
 
-## 👤 Bio
+### 🚀 About Me
 
-Brandon Marshall — aspiring WordPress developer. Learning Figma to improve my workflow; open to feedback. Connect on LinkedIn: https://www.linkedin.com/in/brandonmarshallprofile
-Figma: https://figma.com/@brandonmarshall
+I am a versatile developer dedicated to building high-performance systems and seamless user experiences. My work bridges the gap between low-level efficiency and high-level design, with a focus on scalable architecture and clean, maintainable code.
 
----
-
-## 🚀 About Me
-
-I'm an aspiring developer, passionate about building with WordPress and exploring new web technologies. I love learning, experimenting, and sharing what I discover.
-
-- 💻 **Tech Interests:** WordPress, block themes, Figma, AI, JavaScript, HTML, CSS
-- 🏆 **Goals:** Master WordPress development, design with Figma, and leverage AI for creative projects
-- 🌐 **Organization:** Learning and sharing with @ LightspeedWP
+- 🔭 **Current Focus:** Full-stack architecture and Systems programming.
+- 💬 **Ask me about:** JavaScript, architecture patterns, and creative coding.
+- ⚡ **Fun Fact:** I believe code should be as readable as a good book and as efficient as a fine-tuned engine.
 
 ---
 
-## 🔥 My Stats & Badges
+### 🧠 Coding Philosophy
+
+> *"Code is for humans to read and only incidentally for machines to execute."*
+> **My Principles:**
+> - **Clarity over Complexity:** Write code that explains itself.
+> - **Scalability by Design:** Build for the future, but implement for today.
+> - **Performance first, Design always:** Efficiency at the core, excellence on the surface.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Development** | <img src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,prisma" /> |
+| **Systems & Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,bash" /> |
+| **Design / AI** | <img src="https://skillicons.dev/icons?i=figma,ai" /> |
+
+---
+
+### 📦 Highlighted Project
+
+#### ☕ [Artisan Coffee Store](https://github.com/Brandonmarshal/artisan-coffee-store)
+A premium eCommerce platform demonstrating full-stack proficiency.
+- **Key Achievements:** Implemented a complex dynamic theme system and optimized product indexing for lightning-fast performance.
+- **Stack:** Next.js, Tailwind CSS, Prisma, Framer Motion.
+
+---
+
+### 📈 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandonmarshal&show_icons=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Brandonmarshal&theme=flat&title=Stars,Followers,Commits,Issues,PullRequest" alt="Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brandonmarshal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Brandon's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonmarshal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandonmarshal&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 🛠️ Toolset
+### 📖 Currently Learning & Reading
 
-![WordPress](https://img.shields.io/badge/-WordPress-21759b?logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-333?logo=figma&logoColor=white)
-![AI](https://img.shields.io/badge/-AI-0b3d91?logo=openai&logoColor=white)
+- **Learning:** Rust for high-performance systems and WebAssembly.
+- **Reading:** *"Clean Architecture"* by Robert C. Martin.
+- **Exploring:** Leverging LLMs for automated unit testing and code quality.
 
 ---
 
-## 📦 Featured Projects
+### 🤝 Connect With Me
 
-| Name | Description | Links |
-|---|---|---|
-| **Brandon Blocks** | Custom Gutenberg blocks for WordPress, built for flexibility and learning modern block development. | [Repo](https://github.com/Brandonma21/Brandon-Blocks) |
-| **LSX Demo Theme** | A WordPress theme experiment focusing on block themes and full site editing features. | [Repo](https://github.com/Brandonma21/lsx-demo-theme) |
-
----
-
-## 🌱 Currently Learning
-
-- WordPress Block Themes & Full Site Editing
-- Figma for design & prototyping
-- AI concepts and simple integrations
-
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonmarshallprofile)
-[![Email](https://img.shields.io/badge/-Email-ea4335?logo=gmail&logoColor=white)](mailto:brandonmarshall101@gmail.com)
-
----
-
-<details>
-  <summary>📖 Fun Facts</summary>
-  <ul>
-    <li>GitHub’s mascot, the Octocat, was originally designed as a “cat/octopus hybrid” by graphic designer Simon Oxley for a stock image website. GitHub adopted it as their official mascot, and the Octocat has since become one of the most recognizable symbols in the developer community—appearing in countless customizations and memes!</li>
-    <li>WordPress powers over 40% of all websites on the internet! What started in 2003 as a simple blogging platform has grown into the world’s most popular content management system (CMS), used by everyone from hobby bloggers to major media companies and Fortune 500 brands.</li>
-  </ul>
-</details>
+<p align="left">
+<a href="https://www.linkedin.com/in/brandonmarshallprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmarshallprofile" height="30" width="40" /></a>
+<a href="mailto:brandonmarshall101@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="brandonmarshall101" height="30" width="40" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <i>“Code is poetry. Accessible code is harmony.”</i>
+  <i>"Code is poetry. Accessible code is harmony."</i>
 </p>
+
+
