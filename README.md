@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brandonmarshal&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophy Shelf" />
+  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Brandonmarshal&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophy Shelf" />
 </p>
+
 
 ---
 
@@ -51,13 +52,9 @@ A premium eCommerce platform demonstrating full-stack proficiency.
 
 ### 📈 GitHub Analytics & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brandonmarshal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Brandon's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brandonmarshal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brandonmarshal&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Brandonmarshal&theme=tokyonight" width="100%" alt="Profile Details" />
 </p>
 
 ---
@@ -73,8 +70,12 @@ A premium eCommerce platform demonstrating full-stack proficiency.
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/brandonmarshallprofile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandonmarshallprofile" height="30" width="40" /></a>
-<a href="mailto:brandonmarshall101@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="brandonmarshall101" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/brandonmarshallprofile">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:brandonmarshall101@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
 
 ---
