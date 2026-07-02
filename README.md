@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Systems+%26+Database+Enthusiast;AI+Workflow+Builder;UI%2FUX+Enthusiast" alt="Full-stack Developer, Systems and Database Enthusiast, AI Workflow Builder, and UI/UX Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy-ryo-ma.vercel.app/?username=Brandonmarshal&theme=tokyonight&no-bg=true&margin-w=4" alt="Brandon Marshall's GitHub trophy shelf" />
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -52,31 +48,36 @@ Also working with Drizzle ORM, REST APIs, webhooks, Playwright, accessibility te
 
 ### 📦 Featured Project
 
-#### ☕ [Artisan Coffee Store](https://github.com/Brandonmarshal/artisan-coffee-store)
+<div align="center">
 
-A full-stack eCommerce project focused on product discovery, responsive design, and a polished shopping experience.
+## ☕ Artisan Coffee Store
 
-- Built with Next.js, Tailwind CSS, Prisma, and Framer Motion
-- Includes a dynamic visual theme system
-- Designed around reusable components and maintainable architecture
-- Optimized product organization and browsing experiences
+### A polished full-stack commerce experience for artisan coffee
 
-> More projects and technical case studies will be added as they become ready to share.
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+
+</div>
+
+| ✨ Experience | 🧩 Engineering | ⚡ Performance |
+| :--- | :--- | :--- |
+| Responsive storefront with a polished product-browsing journey | Reusable components and a maintainable full-stack architecture | Optimized product organization and efficient page interactions |
+| Dynamic visual themes that give the store a distinct identity | Prisma-backed data modelling with clear separation of concerns | Purposeful animation using Framer Motion without compromising usability |
 
 <p align="center">
   <a href="https://github.com/Brandonmarshal/artisan-coffee-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brandonmarshal&repo=artisan-coffee-store&theme=tokyonight&hide_border=true" alt="Artisan Coffee Store repository statistics" />
+    <img src="https://img.shields.io/badge/Explore_the_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore the Artisan Coffee Store project on GitHub" />
   </a>
 </p>
+
+> More projects and technical case studies will be added as they become ready to share.
 
 ---
 
 ### 📈 GitHub Analytics & Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brandonmarshal&show_icons=true&theme=tokyonight&hide_border=true" alt="Brandon Marshall's GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brandonmarshal&layout=compact&theme=tokyonight&hide_border=true" alt="Languages used across Brandon Marshall's public repositories" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Brandonmarshal&theme=tokyonight&hide_border=true" alt="Brandon Marshall's GitHub contribution streak" />
