@@ -12,7 +12,7 @@ I'm a full-stack developer interested in building reliable applications, AI-powe
 
 My background in systems analysis and quality assurance shapes how I approach development: understand the problem, design for maintainability, test carefully, and keep the user experience clear.
 
-- 🔭 Exploring full-stack architecture, AI-assisted tools, and local-first software
+- 🔭 Exploring full-stack architecture, AI-assisted tools, and developing software
 - 🧠 Interested in systems analysis, database design, automation, and application security
 - 🎨 Building accessible interfaces and reusable design systems
 - 🧪 Focused on testing, performance, documentation, and maintainable code
